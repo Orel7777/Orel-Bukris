@@ -20,6 +20,6 @@
 ![Socket.io](https://img.shields.io/badge/Socket.io-010101?logo=socket.io&logoColor=white)
 
 ## Database
-
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
 
